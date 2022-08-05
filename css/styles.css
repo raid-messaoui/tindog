@@ -160,4 +160,8 @@ h3 {
     position: static;
     transform: rotate(0);
   }
+  #pricing{
+  padding-top: 100px;
+  text-align: center;
+}
 }

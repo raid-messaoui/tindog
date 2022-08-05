@@ -151,6 +151,10 @@ h3 {
   margin: 20px 10px;
 }
 
+.github-link{
+  font-color: #61AFEF;
+}
+
 /* responsivness */
 @media (max-width: 1000px) {
   #title {
